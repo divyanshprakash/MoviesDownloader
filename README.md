@@ -11,3 +11,6 @@ Workflow for bot:
 4. When downloading is completed, bot will send the message about it.
 
 call **tsc** for compile Typescript files.
+
+
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/divyanshprakash/MoviesDownloader)
